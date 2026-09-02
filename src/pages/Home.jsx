@@ -2,7 +2,7 @@ import React from 'react'
 import homeFashion from '../assets/home-fashion.jpg'
 import CategoryCard from '../components/CategoryCard'
 import menCat from '../assets/men-cat.png'
-import shoesCat from '../assets/shoes-cart.png'
+import shoesCat from '../assets/electronics.png'
 import accCat from '../assets/acc-cat.png'
 import womenCat from '../assets/women-cat.png'
 import ProductCard from '../components/ProductCard'
@@ -22,10 +22,10 @@ const Home = () => {
       category: "women"
     },
     {
-      name:"Shoes",
+      name:"Electronics",
       imge: shoesCat,
-      alt:"Shoes",
-      category: "shoes"
+      alt:"Electronics",
+      category: "electronics"
     },
     {
       name:"Accessories",
