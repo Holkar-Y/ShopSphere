@@ -5,7 +5,7 @@ ShopSphere is a responsive e-commerce web application built with **React.js**. I
 The project was developed to gain practical experience with React concepts such as component-based architecture, state management, routing, API integration, and Local Storage.
 
 ### 🔗 Live Demo
-[View Live Demo](https://github.com/Holkar-Y/ShopSphere/blob/main/shopsphere-three-phi.vercel.app)
+[View Live Demo](shopsphere-three-phi.vercel.app)
 
 ### 📌 GitHub Repository
 [View Source Code](https://github.com/Holkar-Y/ShopSphere)
